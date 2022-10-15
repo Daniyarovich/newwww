@@ -241,7 +241,7 @@ def newmain():
     SELLUAH()
 while True:
     newmain()
-    time.sleep(10)
+    time.sleep(200)
     pass
         
         
